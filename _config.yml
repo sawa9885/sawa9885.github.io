@@ -21,7 +21,7 @@ author: Mathias Labuszewski
 
 navbar-links:
   About Me: "aboutme"
-
+  PCB Design & Manufacturing: "pcb"
 
 ################
 # --- Logo --- #
@@ -47,16 +47,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "mathiaslabuszewski@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  #facebook: deanattali
+  github: mathiaslabuszewski
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: mathias-labuszewski
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
