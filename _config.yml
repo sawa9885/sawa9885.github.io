@@ -21,7 +21,11 @@ author: Mathias Labuszewski
 
 navbar-links:
   About Me: "aboutme"
-  PCB Design & Manufacturing: "pcb"
+  PCB Design & Manufacturing:
+    - Board Reports: "boardreports"
+    - Lab Reports: 
+        - Board Reports: "boardrepor1ts"
+        - Lab Reports: "labreports"
 
 ################
 # --- Logo --- #
