@@ -1,15 +1,18 @@
 ---
 layout: page
 title: Board Reports
-subtitle: Collection of my Board reports. There are 4 total boards we will make in the class.
+subtitle: Collection of my Board reports
 ---
+Here is a collection of the 4 board reports from my PCB Design and Manufacturing class. Only one board has been fully built, tested and analyzed, so only one report is up. You can refer to the Lab Reports to see what we are learning about in the class.
 
-My name is Inigo Montoya. I have the following qualities:
+### Board 1
+This board was a simple 555 timer board. The purpose was to familiarise students with Altium Designer, and assembling SMD components. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+<object data="/assets/pdf/board_1.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/board_1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### My story
 
