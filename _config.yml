@@ -23,9 +23,7 @@ navbar-links:
   About Me: "aboutme"
   PCB Design & Manufacturing:
     - Board Reports: "boardreports"
-    - Lab Reports: 
-        - Board Reports: "boardrepor1ts"
-        - Lab Reports: "labreports"
+    - Lab Reports: "labreports"
 
 ################
 # --- Logo --- #
