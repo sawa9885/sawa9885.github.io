@@ -14,6 +14,14 @@ This board was a simple 555 timer board. The purpose was to familiarise students
     </embed>
 </object>
 
-### My story
+### Board 2
+This board was 555 tiner hooked to two hex inverter layouts. The purpose was to show how the layout of components will affect noise.
+(TBD: ~10-24-23)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Board 3
+Board 3 is an Arduino Uno. We design our own 2-layer board using best practices. The goal is to reduce noise and emi when compared to the standard Arduino Uno Rev1
+(TBD: ~11-20-23)
+
+
+### Board 4
+Not yet designed
