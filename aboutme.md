@@ -11,4 +11,4 @@ My name is Mathias Labuszewski. I'm an Electrical & Computer Engineering Student
 - Innovative Project Development: Demonstrated track record of successfully designing, developing, and assembling a range of electronic systems, including robots, ham radios, and embedded software projects.
 
   
-##
+I have lots of hobbies; I like to fly my racing drones around, I love to motocross, and I love making things.
