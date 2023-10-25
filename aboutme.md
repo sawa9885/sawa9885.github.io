@@ -10,4 +10,10 @@ My name is Mathias Labuszewski. I'm an Electrical & Computer Engineering Student
 - Mentorship and Teaching: Experienced in guiding and supporting students in coding, project development, and understanding complex technical concepts.
 - Innovative Project Development: Demonstrated track record of successfully designing, developing, and assembling a range of electronic systems, including robots, ham radios, and embedded software projects.
 
-  
+#### My Resume
+
+<object data="/assets/pdf/Mathias_Labuszewski_Resume_F.pdf" type="application/pdf" width="1000px" height="1000px">
+    <embed src="/assets/pdf/Mathias_Labuszewski_Resume_F.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Mathias_Labuszewski_Resume_F.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
