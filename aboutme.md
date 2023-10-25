@@ -12,8 +12,8 @@ My name is Mathias Labuszewski. I'm an Electrical & Computer Engineering Student
 
 #### My Resume
 
-<object data="/assets/pdf/Mathias_Labuszewski_Resume_F.pdf" type="application/pdf" width="1000px" height="1000px">
-    <embed src="/assets/pdf/Mathias_Labuszewski_Resume_F.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Mathias_Labuszewski_Resume_F.pdf">Download PDF</a>.</p>
+<object data="/assets/pdf/MathiasLabuszewskiResume.pdf" type="application/pdf" width="800px" height="1000px">
+    <embed src="/assets/pdf/MathiasLabuszewskiResume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/MathiasLabuszewskiResume.pdf">Download PDF</a>.</p>
     </embed>
 </object>
