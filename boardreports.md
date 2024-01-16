@@ -16,12 +16,26 @@ This board was a simple 555 timer board. The purpose was to familiarise students
 
 ### Board 2
 This board was 555 tiner hooked to two hex inverter layouts. The purpose was to show how the layout of components will affect noise.
-(TBD: ~10-24-23)
+
+<object data="/assets/pdf/board2.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/board2.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/board_1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### Board 3
 Board 3 is an Arduino Uno. We design our own 2-layer board using best practices. The goal is to reduce noise and emi when compared to the standard Arduino Uno Rev1
-(TBD: ~11-20-23)
 
+<object data="/assets/pdf/board_3.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/board_3.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/board_1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ### Board 4
-Not yet designed
+Board 4 was a shield for our Arduino uno. The shield measured thevenin voltage and resistance of a VRM.
+<object data="/assets/pdf/board_4.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/board_4.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/board_1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
