@@ -46,3 +46,40 @@ In lab 15 we explored the professor's design of board 2, which explored good and
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+### Lab 16
+In lab 16 we explored single and differential-ended measurements.
+<object data="/assets/pdf/lab16.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/lab16.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+### Lab 18
+In lab 18 we measured inrush current and the effect it has on a circuit. 
+<object data="/assets/pdf/lab18.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/lab18.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### Lab 22
+In lab 22 we made a SSB version of Board 4.
+<object data="/assets/pdf/lab22.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/lab22.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+### Lab 25
+In lab 25 we explore the impact of ferrite filters. 
+<object data="/assets/pdf/lab25.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/lab25.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/lab_15.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
